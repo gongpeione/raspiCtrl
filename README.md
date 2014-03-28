@@ -1,4 +1,4 @@
 raspiCtrl
 =========
 
-A PHP Raspiberry Pi Controler
+A PHP Raspiberry Pi Controller
